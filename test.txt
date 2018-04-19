@@ -1,2 +1,3 @@
 cout<<"hello world";
 cout<<"test git";
+cout<<"lose one";

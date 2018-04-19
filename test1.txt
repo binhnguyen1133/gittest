@@ -1,1 +1,2 @@
 cout<<"nice day";
+cout<<"put in";
